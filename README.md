@@ -1,4 +1,4 @@
-# PMC prequalification challenges
+# Polkadot Metaverse Championship - Challenges
 
 Details are coming this week.
 
