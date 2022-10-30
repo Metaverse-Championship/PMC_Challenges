@@ -46,11 +46,6 @@ __Kusamaverse challenge__: find the flag in Kusamaverse - this one is very easy,
 
 We also have an __optional 3D design challenge__ for the Hall of Fame, near the four listed above. If you submit it using the form, we'll add the design to the Hall of Fame, where all the successfully prequalified players get listed.
 
-## Support and feedback for the prequalification
-
-We don't help with the solution. If something is unclear or you need help or think you found a bug, we are always open to hear from you.
-You can contact us anytime though our email address contact@metaversechampionship.gg or you can also find six through Matrix (:hexff@matrix.org).
-
 ## Challenges for the main event
 
 The details of these challenges will be shared on 2022 December 6th 10:00 CET. The teams will need to solve at least one from each track. You can already prepare libraries and some code befor the hackathon, but the final ideation and project needs to come out during the main event.
@@ -72,3 +67,12 @@ Challenge 2 - Creator to be disclosed.
 Challenge 1 - by RMRK
 
 Challenge 2 - Creator to be disclosed.
+
+## Support and feedback for the prequalification
+
+We don't help with the solution. If something is unclear or you need help or think you found a bug, we are always open to hear from you.
+You can contact us anytime though our email address contact@metaversechampionship.gg or you can also find six through Matrix (@hexff:matrix.org).
+
+## Contact
+
+You can find all our communication channels, media content and PR releases through [our linkfree](https://linkfree.metaversechampionship.gg/).

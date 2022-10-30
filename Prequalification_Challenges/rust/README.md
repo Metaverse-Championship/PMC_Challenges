@@ -6,7 +6,7 @@ The first one is the flag.txt and the others are two files that have random prim
 
 Can you help us decrypting the output and get the flag?
 
-This challenge requires you to have cryptography and coding skills. Any language is accepted to get the solution.
+This challenge requires you to have cryptography and coding skills. Any language is accepted to get the solution. Please make sure to upload your solution through the form when you submit it.
 
 _Keccak256: 0x42ce6fca873fe4dc4ce4d9accdb53e02fdb497ffa6b30f421cea36c81d8ea289_
 
