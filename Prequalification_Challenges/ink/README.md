@@ -4,8 +4,8 @@ This challenge has four requirements to pass:
 
 1. Map the services behind 45.77.137.182 and a way to connect (Alice helps!)
 2. Find the flag on-chain! Format as in other challenges PMC{...}
-3. Deploy the flipper ink! smart contract from your player DOT address (the one you use in the prequalifer registration form)
-4. Automate the coin clip funcion call and share the code through the registration form
+3. Deploy the flipper ink! smart contract from your player DOT address (the one you use in the prequalifer registration form) on 45.77.137.182
+4. Automate the coin clip function call and share the code through the registration form.
 
 This challenge requires you to have a basic understanding of Substrate and ink! smart contracts.
 

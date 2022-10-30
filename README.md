@@ -15,7 +15,7 @@ __[Prequalify me!](https://www.cognitoforms.com/UnconditionalPeace/PolkadotMetav
 
 ## How to verify a flag?
 
-You can verify your flag is correct without submitting the form. Install keccak256 with cargo and compare your findings. Example command:
+You can verify your flag is correct without submitting the form. Install keccak256-cli with cargo and compare your findings. Example command:
 
 ```
 echo 'PMC{This_Could_be_a_Flag.!}'|keccak256
@@ -30,8 +30,6 @@ kusamaverse - 0x896c90f019d0aaa7977ce81c7d7299b1b43d302295f2d567509ab7e3060a797f
 ink - 0x82703a464305aad655e2eb617f31e6e57b7e959bf8528f1d3b5968cc02ed60ac
 wss - 0x2f2d4bb11521956c486925241ffcca0cbf7b79bbd9be8eafaeb4fab95713b12d
 rust - 0x42ce6fca873fe4dc4ce4d9accdb53e02fdb497ffa6b30f421cea36c81d8ea289
-python - 0xf00b792cd63a035c76abe2fca4afe8d8b7eb8527b9b547b672545c71ee4ca77f
-
 ```
 
 ## Prequalification challenges
