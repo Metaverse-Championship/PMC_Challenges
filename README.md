@@ -27,22 +27,25 @@ The flags have the following keccak256 values:
 
 ```
 kusamaverse - 0x896c90f019d0aaa7977ce81c7d7299b1b43d302295f2d567509ab7e3060a797f
-ink - 0x82703a464305aad655e2eb617f31e6e57b7e959bf8528f1d3b5968cc02ed60ac
 wss - 0x2f2d4bb11521956c486925241ffcca0cbf7b79bbd9be8eafaeb4fab95713b12d
+solidity - 0x81b1ff6939fedd672ddac358a41abb7192ae1f0660a3b1cbf92ef2c82119612b
+ink - 0x82703a464305aad655e2eb617f31e6e57b7e959bf8528f1d3b5968cc02ed60ac
 rust - 0x42ce6fca873fe4dc4ce4d9accdb53e02fdb497ffa6b30f421cea36c81d8ea289
 ```
 
 ## Prequalification challenges
 
-__WSS challenge__: you need to play with a websocket connection and get the flag from the service.
+__WSS challenge__: you need to play with a websocket connection and get the flag from the service. It is called Fibonacci.
 
-__Rust challenge:__ you need to work with cryptography and math. The correct math will return you the flag.
+__Solidity challenge__: a security audit might reveal what the developers think is private might actually not be.
 
-__ink! challenge__: you need to get the flag from an already running Substrate node.
+__Rust challenge__: work with RSA cryptography and math. The correct math will return you the flag.
+
+__ink! challenge__: you need to get the flag from an already running Substrate node or find "another" way. Make sure to web2 scan everything.
 
 __Kusamaverse challenge__: find the flag in Kusamaverse - this one is very easy, but important for the main event.
 
-We also have an __optional 3D design challenge__ for the Hall of Fame, near the four listed above. If you submit it using the form, we'll add the design to the Hall of Fame, where all the successfully prequalified players get listed.
+We also have an __optional 3D design challenge__ for the Hall of Fame, near the four listed above. If you submit it using the prequalification form, we'll add the design to the Hall of Fame, where all the successfully prequalified players get listed.
 
 ## Challenges for the main event
 
@@ -50,19 +53,19 @@ The details of these challenges will be shared on 2022 December 6th 10:00 CET. T
 
 ### Track 1 - Collaboration
 
-Challenge 1 - by Momentum
+Challenge 1 - Momentum related
 
 Challenge 2 - Creator to be disclosed.
 
 ### Track 2 - Privacy and Security
 
-Challenge 1 - by CCTF
+Challenge 1 - CCTF related
 
 Challenge 2 - Creator to be disclosed.
 
 ### Track 3 - GameFi and NFT
 
-Challenge 1 - by RMRK
+Challenge 1 - RMRK related
 
 Challenge 2 - Creator to be disclosed.
 
