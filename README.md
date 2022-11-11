@@ -49,7 +49,7 @@ We also have an __optional 3D design challenge__ for the Hall of Fame, near the 
 
 ## Challenges for the main event
 
-The details of these challenges will be shared on 2022 December 6th 10:00 CET. The teams will need to solve at least one from each track. You can already prepare libraries and some code befor the hackathon, but the final ideation and project needs to come out during the main event.
+The details of these challenges will be shared on 2022 December 6th 10:00 CET. The teams will need to solve at least one from each track. You can already prepare libraries and some code before the hackathon, but the final ideation and project needs to come out during the main event.
 
 ### Track 1 - Collaboration
 
