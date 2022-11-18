@@ -49,29 +49,29 @@ We also have an __optional 3D design challenge__ for the Hall of Fame, near the 
 
 ## Challenges for the main event
 
-The details of these challenges will be shared on 2022 December 6th 10:00 CET. The teams will need to solve at least one from each track. You can already prepare libraries and some code before the hackathon, but the final ideation and project needs to come out during the main event.
+The details of the main challenges will be shared on 2022 December 6th 10:00 CET. The teams formed before will need to solve at least one from each track, in 24 hours. You can already prepare libraries and some code before the hackathon, but the final ideation and project needs to come out during the main event.
 
 ### Track 1 - Collaboration
 
-Challenge 1 - Momentum related
+Challenge 1 - Momentum's Kusamaverse related
 
 Challenge 2 - Creator to be disclosed.
 
 ### Track 2 - Privacy and Security
 
-Challenge 1 - CCTF related
+Challenge 1 - CCTF project related
 
-Challenge 2 - Creator to be disclosed.
+Challenge 2 - Research related
 
 ### Track 3 - GameFi and NFT
 
-Challenge 1 - RMRK related
+Challenge 1 - RMRK project related
 
 Challenge 2 - Creator to be disclosed.
 
 ## Support and feedback for the prequalification
 
-We don't help with the solution. If something is unclear or you need help or think you found a bug, we are always open to hear from you.
+We don't help with the solutions. If something is unclear or you need help or think you found a bug, we are always open to hear from you.
 You can contact us anytime though our email address contact@metaversechampionship.gg or you can also find six through Matrix (@hexff:matrix.org).
 
 ## Contact
