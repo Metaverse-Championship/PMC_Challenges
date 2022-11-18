@@ -2,9 +2,9 @@
 
 ## How to qualify and get a pass to the physical event?
 
-Solve at least three challenges from the four provided in this repository and submit them in the form linked below.
+Solve at least three challenges from the five provided in this repository and submit them in the form linked below.
 
-You can find all the four prequalification challenges in the "Prequalification_Challenges" folder. If you played Capture The Flag /CTF/ games before, this process is very similar to you already.
+You can find all the five prequalification challenges in the "Prequalification_Challenges" folder. If you played Capture The Flag /CTF/ games before, this process is very similar to you already.
 
 The flag format: __PMC{This_Could_be_a_Flag.!}__
 
@@ -45,7 +45,7 @@ __ink! challenge__: you need to get the flag from an already running Substrate n
 
 __Kusamaverse challenge__: find the flag in Kusamaverse - this one is very easy, but important for the main event.
 
-We also have an __optional 3D design challenge__ for the Hall of Fame, near the four listed above. If you submit it using the prequalification form, we'll add the design to the Hall of Fame, where all the successfully prequalified players get listed.
+We also have an __optional 3D design challenge__ for the Hall of Fame, near the five listed above. If you submit it using the prequalification form, we'll add the design to the Hall of Fame, where all the successfully prequalified players get listed.
 
 ## Challenges for the main event
 
