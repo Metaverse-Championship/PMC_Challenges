@@ -1,29 +1,24 @@
 # Polkadot Metaverse Championship - Challenges
 
-## How to qualify and get a pass to the physical event?
+The [Polkadot Metaverse Championship (PMC)](https://metaversechampionship.gg/) is an open web3/cryptocurrency contest consisting of a qualification phase and a main event.
 
-Solve at least three challenges from the five provided in this repository and submit them in the form linked below.
+# Qualification
 
-You can find all the five prequalification challenges in the "Prequalification_Challenges" folder. If you played Capture The Flag /CTF/ games before, this process is very similar to you already.
+To qualify, you must solve at least 3 challenges from the 5 provided in this repository.
 
-The flag format: __PMC{This_Could_be_a_Flag.!}__
+### The process
 
-What you are looking for in each challenge is to generate the data between PMC{......}.
+Each challenge has its own subfolder in the "Prequalification_Challenges" folder, wherein it is described.
 
-After you solve at least three challenges, you can submit the form and request your invitation:
-__[Prequalify me!](https://www.cognitoforms.com/UnconditionalPeace/PolkadotMetaverseChampionshipPrequalification)__
+The format of a solution is an ASCII string of the form __PMC{...}__, like PMC{#\This_Could_be_Flagz/#}. A correct solution is also called a flag. What you are looking for in each challenge is to generate the string between PMC{......}.
 
-## How to verify a flag?
+[Submit your solutions in this web form](https://www.cognitoforms.com/UnconditionalPeace/PolkadotMetaverseChampionshipPrequalification) to ask for an invitation.
 
-You can verify your flag is correct without submitting the form. Install keccak256-cli with cargo and compare your findings. Example command:
+(If you've played Capture The Flag (CTF) games before, this process should be familiar to you.)
 
-```
-echo 'PMC{This_Could_be_a_Flag.!}'|keccak256
-```
+## Offline flag verification
 
-The output of the example command should be: 0x6104a5489b671452684fee77579df24e6f2441d1f8a832c7366cf2cfc5194935
-
-The flags have the following keccak256 values:
+You can verify the correctness of your solutions before submitting the form. The flags have the following respective Keccak-256 hash values:
 
 ```
 kusamaverse - 0x896c90f019d0aaa7977ce81c7d7299b1b43d302295f2d567509ab7e3060a797f
@@ -33,7 +28,13 @@ ink - 0x82703a464305aad655e2eb617f31e6e57b7e959bf8528f1d3b5968cc02ed60ac
 rust - 0x42ce6fca873fe4dc4ce4d9accdb53e02fdb497ffa6b30f421cea36c81d8ea289
 ```
 
-## Prequalification challenges
+To calculate the Keccak-256 hash of a string, you can, for example, install `keccak256-cli` using `cargo`, and then use the `keccak256` command like so:
+```
+echo 'PMC{This_Could_be_a_Flag.!}'|keccak256
+0x6104a5489b671452684fee77579df24e6f2441d1f8a832c7366cf2cfc5194935
+```
+
+## List of prequalification challenges
 
 __WSS challenge__: you need to play with a websocket connection and get the flag from the service. It is called Fibonacci.
 
@@ -47,33 +48,52 @@ __Kusamaverse challenge__: find the flag in Kusamaverse - this one is very easy,
 
 We also have an __optional 3D design challenge__ for the Hall of Fame, near the five listed above. If you submit it using the prequalification form, we'll add the design to the Hall of Fame, where all the successfully prequalified players get listed.
 
+### Design for fame
+
+By the way, you can compound your solutions with an optional 3D design of your own, in the web form. We'll add each such design to the Hall of Fame, where all the successfully qualified players get listed.
+
 ## Challenges for the main event
 
 The details of the main challenges will be shared on 2022 December 6th 10:00 CET. The teams formed before will need to solve at least one from each track, in 24 hours. You can already prepare libraries and some code before the hackathon, but the final ideation and project needs to come out during the main event.
 
-### Track 1 - Collaboration
+## Main event
+
+The main event consists of a 3-day hackathon where projects can be conceptualized and implemented, and also of more challenge-solving in parallel.
+
+At first, teams should be formed by qualified players.
+
+The main event's challenges will be disclosed on 2022-12-06 at 10:00:00 CET. The teams will need to solve at least one from each challenge track, in 24 hours.
+
+Note: You can already prepare libraries and some code before the hackathon, but the final project needs to be conceived during the main event.
+
+### Main event challenges
+
+An outline:
+
+#### Track 1 - Collaboration
 
 Challenge 1 - Momentum's Kusamaverse related
 
-Challenge 2 - Creator to be disclosed.
+Challenge 2 - Unit Network related
 
-### Track 2 - Privacy and Security
+#### Track 2 - Privacy and Security
 
 Challenge 1 - CCTF project related
 
 Challenge 2 - Research related
 
-### Track 3 - GameFi and NFT
+#### Track 3 - GameFi and NFT
 
 Challenge 1 - RMRK project related
 
-Challenge 2 - Creator to be disclosed.
+Challenge 2 - KILT related
 
 ## Support and feedback for the prequalification
 
-We don't help with the solutions. If something is unclear or you need help or think you found a bug, we are always open to hear from you.
-You can contact us anytime though our email address contact@metaversechampionship.gg or you can also find six through Matrix (@hexff:matrix.org).
+We don't help with solving the challenges, but if something is unclear or you think you've found a bug, we are always open to hear from you.
 
 ## Contact
 
-You can find all our communication channels, media content and PR releases through [our linkfree](https://linkfree.metaversechampionship.gg/).
+You can contact us anytime though our email address contact@metaversechampionship.gg or you can talk to __six__ through Matrix (@hexff:matrix.org).
+
+You can find all our communication channels, media content and PR postings through [our linkfree](https://linkfree.metaversechampionship.gg/).
