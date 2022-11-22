@@ -16,7 +16,7 @@ The format of a solution is an ASCII string of the form __PMC{...}__, like PMC{#
 
 (If you've played Capture The Flag (CTF) games before, this process should be familiar to you.)
 
-## Offline flag verification
+### Offline flag verification
 
 You can verify the correctness of your solutions before submitting the form. The flags have the following respective Keccak-256 hash values:
 
@@ -46,17 +46,11 @@ __ink! challenge__: you need to get the flag from an already running Substrate n
 
 __Kusamaverse challenge__: find the flag in Kusamaverse - this one is very easy, but important for the main event.
 
-We also have an __optional 3D design challenge__ for the Hall of Fame, near the five listed above. If you submit it using the prequalification form, we'll add the design to the Hall of Fame, where all the successfully prequalified players get listed.
-
 ### Design for fame
 
 By the way, you can compound your solutions with an optional 3D design of your own, in the web form. We'll add each such design to the Hall of Fame, where all the successfully qualified players get listed.
 
-## Challenges for the main event
-
-The details of the main challenges will be shared on 2022 December 6th 10:00 CET. The teams formed before will need to solve at least one from each track, in 24 hours. You can already prepare libraries and some code before the hackathon, but the final ideation and project needs to come out during the main event.
-
-## Main event
+# Main event
 
 The main event consists of a 3-day hackathon where projects can be conceptualized and implemented, and also of more challenge-solving in parallel.
 
@@ -66,9 +60,11 @@ The main event's challenges will be disclosed on 2022-12-06 at 10:00:00 CET. The
 
 Note: You can already prepare libraries and some code before the hackathon, but the final project needs to be conceived during the main event.
 
-### Main event challenges
+### Challenges for the main event
 
-An outline:
+The details of the main challenges will be shared on 2022 December 6th 10:00 CET. The teams formed before will need to solve at least one from each track, in 24 hours. You can already prepare libraries and some code before the hackathon, but the final ideation and project needs to come out during the main event.
+
+Outline:
 
 #### Track 1 - Collaboration
 
