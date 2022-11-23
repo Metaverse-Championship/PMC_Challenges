@@ -70,13 +70,13 @@ Outline:
 
 Challenge 1 - Momentum's Kusamaverse related
 
-Challenge 2 - Unit Network related
+Challenge 2 - Pallet in 24 hours - Requirements specified by Unit Network
 
 #### Track 2 - Privacy and Security
 
-Challenge 1 - CCTF project related
+Challenge 1 - Decentralizing Secureground - CCTF project related
 
-Challenge 2 - Research related
+Challenge 2 - Privacy and hacking research related
 
 #### Track 3 - GameFi and NFT
 
