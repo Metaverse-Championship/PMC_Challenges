@@ -62,7 +62,7 @@ Note: You can already prepare libraries and some code before the hackathon, but 
 
 ### Challenges for the main event
 
-The details of the main challenges will be shared on 2022 December 6th 10:00 CET. The teams formed before will need to solve at least one from each track, in 24 hours. You can already prepare libraries and some code before the hackathon, but the final ideation and project needs to come out during the main event.
+The details of the main challenges will be shared on 2022 December 6th 10:00 CET. The teams formed before will need to solve at least one from each track, in 24 hours: one of them should be the team's main delivery and the two other are in proposal form. You can already prepare libraries and some code before the hackathon, but the final ideation and project needs to come out during the main event.
 
 Outline:
 
@@ -91,7 +91,7 @@ This track is an optional one for the judges and mentors. They are in their posi
 
 ### Choosing challenges and deliveries
 
-Playing teams will need to choose one challenge as their main one. Additionally, they also need to choose at least one from the other track and create a proposal for improving the projects.
+Playing teams will need to choose one challenge as their main one. Additionally, they need to choose at least one from the other tracks and create a proposal for improving the projects.
 
 Overall, three things need to be delivered by the teams: the main challenge solution, a proposal for the second challenge, and a proposal for the third challenge.
 
