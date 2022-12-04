@@ -84,6 +84,48 @@ Challenge 1 - RMRK project related
 
 Challenge 2 - KILT related
 
+#### Track J - Only for judges and mentors!
+
+This track is an optional one for the judges and mentors. They are in their position for a good reason, so will they show-off their 1337 coding skills? What would they do in 24 hours while the players are competing? ... We will see :)
+
+
+### Choosing challenges and deliveries
+
+Playing teams will need to choose one challenge as their main one. Additionally, they also need to choose at least one from the other track and create a proposal for improving the projects.
+
+Overall, three things need to be delivered by the teams: the main challenge solution, a proposal for the second challenge, and a proposal for the third challenge.
+
+The teams need to initialize a git project on https://git.hsbp.org/ or https://github.com/ when the 24 hours start and commit all their development there. Commits after the finish of the end of the 24 hours won't be accepted.
+
+### Judging criteria
+
+Judges will score each team's project based on the following criteria:
+
+- Idea, ecosystem fit
+    - Is it a realistic project and would it be useful for the ecosystem?
+- Logic flow and topology
+    - Is the logic flow of the program well thought out?
+    - If this is a proof of concept, did the team think about making the flow better?
+    - Note: drawing a high-level logic topology is not a must, but good to have
+- Presented demo and code
+    - Did the demo work?
+    - How well-written is the code?
+    - Note: the code does not need to be long, but working and should be written during the hackathon.
+    - Libs/StackOverflow/etc parts are fine, but there needs to be original code.
+- Sustainability
+    - If the presented project would get funding, would it be sustainable in the long run?
+    - Would anyone keep this project running, would it be interesting enough for the community/users?
+- Practicality
+    - When it comes to using the project, would it be practical or burdensome?
+    - Note: the proof of concept doesn't need to be like that, but knowing that future improvements would make the project practical is important.
+- Security Model
+    - How is the project protected against threats and abuse?
+- Second and Third challenge proposal
+    - Did the team present a realistic idea for the two other tracks?
+    - Note: don't spend more than an hour as a team on this, but make sure to do it. 5/5 is the maximum score per proposal.
+
+Each criterion has a maximum score of 10 and the judges will decide individually how many scores they vote for the teams. The maximum score a team can get for their main project is 70. After the scores are finalized, they will be presented in the Hall of Fame smart contract.
+
 ## Support and feedback for the prequalification
 
 We don't help with solving the challenges, but if something is unclear or you think you've found a bug, we are always open to hear from you.
